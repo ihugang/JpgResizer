@@ -24,6 +24,8 @@ Usage: JpgResizer *.jpg -r 75 -o -b -s
  
  -r  : 压缩后图片质量级别 compress level. default is 75, 100 is best.
  
+
+ [![图片]( https://img-blog.csdnimg.cn/20210121185149256.png "screencopy")]( https://img-blog.csdnimg.cn/20210121185149256.png)
  
  *在杭州的创业程序员*
  如果您有小工具方面的需求，可以联系，在以下范围都可以。
